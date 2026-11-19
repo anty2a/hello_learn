@@ -27,4 +27,6 @@ resetBtn.addEventListener("click", function () {
     updateDisplay();
 });
 
+console.log(count);
+
 updateDisplay();
